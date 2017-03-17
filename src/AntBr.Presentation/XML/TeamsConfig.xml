@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--
+XML para armazenar informa'~oes sobre o campeonato: times participantes,
+suas cidades e estados.
+-->
+<championship>
+  <!--
+  Informações sobre o campeonato (descrição ou outra coisa).
+  -->
+  <information>
+  </information>
+  <!--
+  Lista de clubes participantes, suas cidades e estados.
+  -->
+  <teams>
+    <team name="Atlético-PR" city="Curitiba" state="PR"/>
+    <team name="Botafogo" city="Rio de Janeiro" state="RJ"/>
+    <team name="Corinthians" city="São Paulo" state="SP"/>
+    <team name="Cruzeiro" city="Belo Horizonte" state="MG"/>
+    <team name="Figueirense" city="Florianópolis" state="SC"/>
+    <team name="Flamengo" city="Rio de Janeiro" state="RJ"/>
+    <team name="Fluminense" city="Rio de Janeiro" state="RJ"/>
+    <team name="Fortaleza" city="Fortaleza" state="CE"/>
+    <team name="Goiás" city="Goiânia" state="GO"/>
+    <team name="Grêmio" city="Porto Alegre" state="RS"/>
+    <team name="Internacional" city="Porto Alegre" state="RS"/>
+    <team name="Juventude" city="Caixias do Sul" state="RS"/>
+    <team name="Palmeiras" city="São Paulo" state="SP"/>
+    <team name="Paraná" city="Curitiba" state="PR"/>
+    <team name="Ponte Preta" city="Campinas" state="SP"/>
+    <team name="Santa Cruz" city="Recife" state="PE"/>
+    <team name="Santos" city="Santos" state="SP"/>
+    <team name="São Caetano" city="São Caetano do Sul" state="SP"/>
+    <team name="São Paulo" city="São Paulo" state="SP"/>
+    <team name="Vasco" city="Rio de Janeiro" state="RJ"/>
+  </teams>
+</championship>
